@@ -1,0 +1,10 @@
+com\MicroserviceEcom\productservice\model\Product.class
+com\MicroserviceEcom\productservice\repository\ProductRepository.class
+com\MicroserviceEcom\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\MicroserviceEcom\productservice\controller\ProductController.class
+com\MicroserviceEcom\productservice\model\Product$ProductBuilder.class
+com\MicroserviceEcom\productservice\dto\ProductRequest.class
+com\MicroserviceEcom\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\MicroserviceEcom\productservice\dto\ProductResponse.class
+com\MicroserviceEcom\productservice\ProductserviceApplication.class
+com\MicroserviceEcom\productservice\service\ProductService.class
