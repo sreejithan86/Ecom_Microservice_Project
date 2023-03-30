@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: com.MicroserviceEcom.productservice.ProductServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.758 s <<< FAILURE! - in com.MicroserviceEcom.productservice.ProductServiceApplicationTests
-com.MicroserviceEcom.productservice.ProductServiceApplicationTests  Time elapsed: 0.756 s  <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.73 s <<< FAILURE! - in com.MicroserviceEcom.productservice.ProductServiceApplicationTests
+com.MicroserviceEcom.productservice.ProductServiceApplicationTests  Time elapsed: 0.727 s  <<< ERROR!
 java.lang.IllegalStateException: Could not find a valid Docker environment. Please see logs and check configuration
 
